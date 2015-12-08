@@ -1,0 +1,14 @@
+﻿Build started 18/11/2015 07:19:05 p. m..
+     1>Project "C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\OpenCVtest\OpenCVtest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\x64\vc12\..\..\include /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Debug\OpenCVtest.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_ts300d.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Debug\OpenCVtest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Debug\OpenCVtest.lib" /MACHINE:X64 x64\Debug\Serial.obj
+         x64\Debug\Source.obj
+         OpenCVtest.vcxproj -> C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Debug\OpenCVtest.exe
+     1>Done Building Project "C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\OpenCVtest\OpenCVtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.79

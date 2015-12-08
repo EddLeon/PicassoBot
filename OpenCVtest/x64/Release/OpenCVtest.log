@@ -1,0 +1,20 @@
+﻿Build started 18/11/2015 10:48:42 p. m..
+     1>Project "C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\OpenCVtest\OpenCVtest.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\x64\vc12\..\..\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>Source.cpp(296): warning C4101: 'txChar': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Release\OpenCVtest.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:C:\opencv\build\x64\vc12\lib opencv_ts300.lib opencv_world300.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Release\OpenCVtest.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Release\OpenCVtest.lib" /MACHINE:X64 x64\Release\Serial.obj
+         x64\Release\Source.obj
+         Generating code
+         1 of 372 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           1 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         OpenCVtest.vcxproj -> C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\x64\Release\OpenCVtest.exe
+     1>Done Building Project "C:\Users\eddy_\Dropbox\ITESM\Campus\9no semestre\Robotica Aplic\ProyectoFinal\OpenCVtest\OpenCVtest\OpenCVtest.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.71
